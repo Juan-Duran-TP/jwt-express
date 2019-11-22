@@ -1,12 +1,13 @@
-# Connecting Node Server to SQL
+# Using Passport with Express
 
-The goal of this exercise is to connect a Node Server endpoint to a SQL DB
+The goal of this exercise is use Passport with Express and JWTs
 
 
 
 
 ## Requirements
-Make sure to have npm, Jest, and node-fetch
+Make sure to have:
+ npm, express, passport, passport-jwt, jsonwebtoken, nodemon, jest, babel and node-fetch
 
 To run uses:
 
